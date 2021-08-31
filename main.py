@@ -11,7 +11,7 @@ chosen_word = random.choice(word_list)
 
 lives = 6
 
-print(f"psst...the word is {chosen_word}")
+#print(f"psst...the word is {chosen_word}")
 
 display = []
 
